@@ -1,24 +1,39 @@
-🎯 Expense Tracker
+ 🎯 Expense Tracker
 
 A simple Python-based expense tracker that helps you record, categorize, and summarize your daily expenses.  
 Built with **Python** and stored in **CSV files** for easy debugging in VS Code and importing into Excel.
 
-🚀 Features:
+---
 
-1. Add new expenses with name, amount, and category (🍔 Food, 🏠 Home, 💼 Work, 🎉 Fun, ✨ Misc).
+🚀 Features
+- Add new expenses with name, amount, and category (🍔 Food, 🏠 Home, 💼 Work, 🎉 Fun, ✨ Misc).
+- Save expenses to a CSV file (`expenses.csv`).
+- Summarize expenses by category with totals and remaining budget.
+- Calculate daily budget based on days left in the month.
+- Emoji-friendly categories for fun and readability.
+- Colored terminal output for highlights.
 
-2.Save expenses to a CSV file (`expenses.csv`).
+---
 
-3.Summarize expenses by category with totals and remaining budget.
+📂 Project Structure
+1. `expense.py` → Defines the `Expense` class (attributes: `name`, `amount`, `category`).
+2. `expensetracker.py` → Main script: handles input, saving, summarizing.
+3. `expenses.csv` → Stores expense records in CSV format.
+4. `README.md` → Documentation for the project.
 
-4.Calculate daily budget based on days left in the month.
+---
 
-5.Emoji-friendly categories for fun and readability.
+⚙️ Installation & Usage
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/suryaantarvedi/Python.git
+   cd Python/Expense_Tracker
+2. Run the program: python expensetracker.py
+3. Follow the prompts to add expenses and view summaries.
 
-6.Colored terminal output for highlights.
+🖥️ Sample Output
 
-🖥️ Sample Output:
-Running Expense Tracker!
+🎯 Running Expense Tracker!
 Enter expense name: Pizza
 Enter expense amount: 250
 Select a category:
@@ -34,4 +49,3 @@ Expenses By Category 📈:
 💵 Total Spent: $250.00
 ✅ Budget Remaining: $1750.00
 👉 Budget Per Day: $58.33
-

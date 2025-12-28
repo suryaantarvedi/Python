@@ -4,6 +4,7 @@ A simple Python-based expense tracker that helps you record, categorize, and sum
 Built with **Python** and stored in **CSV files** for easy debugging in VS Code and importing into Excel.
 
 🚀 Features:
+
 1. Add new expenses with name, amount, and category (🍔 Food, 🏠 Home, 💼 Work, 🎉 Fun, ✨ Misc).
 
 2.Save expenses to a CSV file (`expenses.csv`).

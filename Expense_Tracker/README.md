@@ -45,7 +45,11 @@ Select a category:
 Enter a category number [1 - 5]: 1
 
 Expenses By Category 📈:
+
   🍔 Food: $250.00
+  
 💵 Total Spent: $250.00
+
 ✅ Budget Remaining: $1750.00
+
 👉 Budget Per Day: $58.33

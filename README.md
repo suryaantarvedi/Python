@@ -1,10 +1,11 @@
-🚀 Python Projects
+# 🚀 Python Projects
+
 This repository contains Python programs that demonstrate real-world applications of data validation and expense management.
 They showcase practical use of Pandas, Regex, File Handling, and Date/Time calculations.
 ________________________________________
-📁 Projects
+### 📁 Projects
 
-1️⃣ PAN Validation System
+## 1️⃣ PAN Validation System
 
 A program that validates PAN (Permanent Account Number) records using Python + Pandas + Regex.
 It ensures data quality by cleaning, validating, and summarizing PAN numbers.
@@ -16,7 +17,7 @@ Features:
 •	📊 Generate summary of valid/invalid/missing PANs
 •	📂 Export results to Excel (detailed + summary sheets)
 
-2️⃣ Expense Tracker
+## 2️⃣ Expense Tracker
 
 A program that helps users track daily expenses and compare them against a monthly budget.
 It uses file handling, categorization, and date/time logic to provide insights.

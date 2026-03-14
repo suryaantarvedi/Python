@@ -2,9 +2,9 @@
 
 This repository contains Python programs that demonstrate real-world applications of data validation and expense management.
 They showcase practical use of Pandas, Regex, File Handling, and Date/Time calculations.
-_____________________________________________________________________________________________________
-### 📁 Projects
 
+### 📁 Projects
+_____________________________________________________________________________________________________
 ## 1️⃣ PAN Validation System
 
 A program that validates PAN (Permanent Account Number) records using Python + Pandas + Regex.
